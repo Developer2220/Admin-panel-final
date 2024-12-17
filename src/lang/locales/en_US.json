@@ -1,5 +1,6 @@
 {
 	"sidenav.main": "Main",
+	"sidenav.main.planner": "Planner",
 	"sidenav.main.dashboard": "Dashboard",
 	"sidenav.main.catalog": "Catalog",
 	"sidenav.main.catalog.products": "Products",

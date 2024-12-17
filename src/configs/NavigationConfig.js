@@ -11,6 +11,7 @@ import {
   EnvironmentOutlined,
   UserOutlined, 
   DashboardOutlined,
+  AppstoreOutlined,
 } from '@ant-design/icons';
 import { APP_PREFIX_PATH} from 'configs/AppConfig';
 
@@ -24,6 +25,14 @@ const navTree = [
     icon: '',
     breadcrumb: false,
     submenu: [
+      {
+        key: 'main-planner',
+        path: `${APP_PREFIX_PATH}/planner`,
+        title: 'sidenav.main.planner',
+        icon: AppstoreOutlined,
+        breadcrumb: false,
+        submenu: []
+      },
       {
         key: 'main-dashboard',
         path: `${APP_PREFIX_PATH}/main/dashboard`,
