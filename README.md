@@ -1,6 +1,6 @@
 # Admin panel
 
-### [Check it out on Versel deploy](https://admin-panel-delta-peach.vercel.app/)
+### [Check it out on Versel deploy](https://admin-panel-final.vercel.app/)
 
 
 ## Installation
